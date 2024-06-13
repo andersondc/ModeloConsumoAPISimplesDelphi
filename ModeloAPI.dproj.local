@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/12/15 17:06:15.000.574,=C:\Users\Anderson D Camargo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/06/12 08:53:44.330,=C:\Users\Anderson D Camargo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/06/12 09:08:11.476,C:\Anderson\Sistemas\Modelo API (Rafa)\Principal.pas=C:\Users\Anderson D Camargo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/06/12 09:08:11.476,C:\Anderson\Sistemas\Modelo API (Rafa)\Principal.dfm=C:\Users\Anderson D Camargo\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/06/12 09:08:16.844,C:\Anderson\Sistemas\Modelo API (Rafa)\ModeloAPI.dproj=C:\Users\Anderson D Camargo\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
